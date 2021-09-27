@@ -2,5 +2,5 @@ Hima Resolution
 - Konsisten untuk membuat content website 2x seminggu
 - Membuat platform untuk pengolahan media (Screen shoot gambar, video, dll)
 - Membuat forum diskusi untuk Departement Media
-- Membuat list apa yang akan dikerjakan sekarang dan nanti
 - Kolaborasi dengan divisi Graphic Designer
+- Membuat website dengan 2 bahasa, Jepang dan Indonesia
